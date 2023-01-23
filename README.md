@@ -1,6 +1,6 @@
 # imouto.is-cute.moe
 
-A (cute) static link shortener.
+A (cute) static link shortener, powered by [Suri](https://github.com/jstayton/suri).
 
 ## 📃 About
 [imouto.is-cute.moe](https://imouto.is-cute.moe) is a fork of [Suri](https://github.com/jstayton/suri) to host URLs from [is-cute](https://github.com/is-cute).
