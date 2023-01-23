@@ -3,7 +3,7 @@
 A (cute) static link shortener.
 
 ## 📃 About
-[imouto.is-cute.moe](https://imouto.is-cute.moe) is a fork of [Suri](https://github.com/jstayton/suri) to host URLs from [is-cute.moe](https://github.com/is-cute).
+[imouto.is-cute.moe](https://imouto.is-cute.moe) is a fork of [Suri](https://github.com/jstayton/suri) to host URLs from [is-cute](https://github.com/is-cute).
 
 This repository is deployed to GitHub pages. Changes made to the [`master`](https://github.com/is-cute/suri/tree/master) branch are automatically compiled with a custom workflow and written to the [`gh-pages`](https://github.com/is-cute/suri/tree/gh-pages) branch.
 
