@@ -8,9 +8,10 @@ A (cute) static link shortener, powered by [Suri](https://github.com/jstayton/su
 This repository is deployed to GitHub pages. Changes made to the [`master`](https://github.com/is-cute/suri/tree/master) branch are automatically compiled with a custom workflow and written to the [`gh-pages`](https://github.com/is-cute/suri/tree/gh-pages) branch.
 
 ## 🔗 List of Public URLS
-| Path       | Host URL                   | Description |
-| :--------- | :------------------------- | :---------- |
-| /          | https://derpie.is-cute.moe | Root domain |
+| Path         | Host URL                              | Description      |
+| :----------- | :------------------------------------ | :--------------- |
+| /            | https://derpie.is-cute.moe            | Root domain      |
+| /tablet-area | https://hitori.is-cute.moe/ATy3xI.png | osu! Tablet Area |
 
 ## 🌠 Deployment
 > **Note**  
