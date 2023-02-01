@@ -1,4 +1,4 @@
-# imouto.is-cute.moe
+# [imouto.is-cute.moe](https://imouto.is-cute.moe)
 
 A (cute) static link shortener, powered by [Suri](https://github.com/jstayton/suri).
 
