@@ -1,17 +1,18 @@
-# [imouto.is-cute.moe](https://imouto.is-cute.moe)
+# [is-cute.moe](https://is-cute.moe)
 
 A (cute) static link shortener, powered by [Suri](https://github.com/jstayton/suri).
 
 ## 📃 About
-[imouto.is-cute.moe](https://imouto.is-cute.moe) is a fork of [Suri](https://github.com/jstayton/suri) to host URLs from [is-cute](https://github.com/is-cute).
+[is-cute.moe](https://is-cute.moe) is a fork of [Suri](https://github.com/jstayton/suri) to host URLs for [is-cute](https://github.com/is-cute).
 
 This repository is deployed to GitHub pages. Changes made to the [`master`](https://github.com/is-cute/suri/tree/master) branch are automatically compiled with a custom workflow and written to the [`gh-pages`](https://github.com/is-cute/suri/tree/gh-pages) branch.
 
-## 🔗 List of Public URLS
-| Path         | Host URL                              | Description      |
-| :----------- | :------------------------------------ | :--------------- |
-| /            | https://derpie.is-cute.moe            | Root domain      |
-| /tablet-area | https://hitori.is-cute.moe/ATy3xI.png | osu! Tablet Area |
+## 🔗 List of Public URLs
+| Path         | Host URL                                       | Description      |
+| :----------- | :--------------------------------------------- | :--------------- |
+| /            | https://derpie.is-cute.moe                     | Root domain      |
+| /bocchi      | https://derpie.is-cute.moe/bocchi              | Bocchi           |
+| /tablet-area | https://derpie.is-cute.moe/osu/tablet-area.png | osu! Tablet Area |
 
 ## 🌠 Deployment
 > **Note**  
