@@ -6,14 +6,14 @@ A (cute) static link shortener, powered by [Suri](https://github.com/jstayton/su
 
 [is-cute.moe](https://is-cute.moe) is a fork of [Suri](https://github.com/jstayton/suri) to host URLs for [is-cute](https://github.com/is-cute).
 
-This repository is deployed to GitHub pages. Changes made to the [`master`](https://github.com/is-cute/suri/tree/master) branch are automatically compiled with a custom workflow and written to the [`gh-pages`](https://github.com/is-cute/suri/tree/gh-pages) branch.
+This repository is deployed to GitHub Pages. Changes made to the [`master`](https://github.com/is-cute/suri/tree/master) branch are automatically compiled with a custom workflow and written to the [`gh-pages`](https://github.com/is-cute/suri/tree/gh-pages) branch.
 
-## 🔗 List of Public URLs
+## 🔗 Public URLs
 
-Path         | Host URL                                                               | Description
-:----------- | :--------------------------------------------------------------------- | :-----------
-/            | [https://github.com/is-cute](https://github.com/is-cute)               | Root domain
-/bocchi      | [https://derpie.is-cute.moe/bocchi](https://derpie.is-cute.moe/bocchi) | Bocchi
+Path                                    | Destination                                                            | Description
+:-------------------------------------- | :--------------------------------------------------------------------- | :------------
+[`/`](https://is-cute.moe/)             | [https://github.com/is-cute](https://github.com/is-cute)               | Root domain
+[`/bocchi`](https://is-cute.moe/bocchi) | [https://derpie.is-cute.moe/bocchi](https://derpie.is-cute.moe/bocchi) | Bocchi
 
 ## 🌠 Deployment
 
@@ -44,4 +44,4 @@ Links are managed through `src/links.json`. An example config can be found below
 ```
 
 > **Note**  
-> In this example, `yourdomain.com/` would take you to [https://github.com/is-cute](ttps://github.com/is-cute), while `yourdomain.com/localhost` would take you to [http://127.0.0.1](http://127.0.0.1).
+> In this example, `yourdomain.com/` would take you to [https://github.com/is-cute](https://github.com/is-cute), while `yourdomain.com/localhost` would take you to [http://127.0.0.1](http://127.0.0.1).
