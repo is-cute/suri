@@ -19,8 +19,6 @@ Path                                    | Destination                           
 
 > **Note**  
 > You can find full deployment instructions in the [official repository](https://github.com/jstayton/suri).
->
-> *This section will cover additional details not found there.*
 
 ### Static Hosting with GitHub Pages
 
@@ -38,7 +36,7 @@ Links are managed through `src/links.json`. An example config can be found below
 ```json
 {
   "/": "https://github.com/is-cute",
-  "/bocchi": "https://bocchi.is-cute.moe",
+  "/bocchi": "https://derpie.is-cute.moe/bocchi",
   "/localhost": "http://127.0.0.1"
 }
 ```
