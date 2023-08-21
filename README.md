@@ -10,10 +10,10 @@ This repository is deployed to GitHub Pages. Changes made to the [`master`](http
 
 ## 🔗 Public URLs
 
-Path                                    | Destination                                                            | Description
-:-------------------------------------- | :--------------------------------------------------------------------- | :------------
-[`/`](https://is-cute.moe/)             | [https://github.com/is-cute](https://github.com/is-cute)               | Root domain
-[`/bocchi`](https://is-cute.moe/bocchi) | [https://derpie.is-cute.moe/bocchi](https://derpie.is-cute.moe/bocchi) | Bocchi
+Path                                      | Destination                                              | Description
+:---------------------------------------- | :--------------------------------------------------------| :-------------
+[`/`](https://is-cute.moe/)               | [https://github.com/is-cute](https://github.com/is-cute) | Root domain
+[`/support`](https://is-cute.moe/support) | [mailto:support@is-cute.moe](mailto:support@is-cute.moe) | Support link
 
 ## 🌠 Deployment
 
